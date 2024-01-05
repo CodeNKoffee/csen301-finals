@@ -1,3 +1,5 @@
+package eleven;
+
 class ExerciseOne {
   public static boolean binarySearch(int[] arr, int v) {
     int min = 0;
