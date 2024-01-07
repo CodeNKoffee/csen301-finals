@@ -1,5 +1,5 @@
 // SOURCE: GeeksForGeeks: (https://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/)
-// DO NOT ATTEMPT TO USE THIS SOLUTION 100% AS IT HAS TYPE-CASTING ISSUE FROM INT TO NODE. WILL BE FIXED ASAP
+// DO NOT ATTEMPT TO USE THIS SOLUTION 100% AS IT HAS TYPE-CASTING ISSUE FROM INT TO NODE. WILL BE FIXED ASAP.
 
 class Node {
     int data;
